@@ -18,7 +18,11 @@ BOM below:
 
 | ITEM | LINK | Description | QTY |   PACKAGE QTY |PRICE EACH | PRICE PACKAGE |
 |-----|----------|-------------|-----|----------|----------|-------------|
-| LED display | [link]()    | Picture Display | REQ QTY |  PACKAGE QTY | PRICE EACH | PRICE PACKAGE |
-| STM32F103x8 | [link](https://www.digikey.com.au/en/products/detail/stmicroelectronics/STM32F103C8T6TR/2122442)  | Logic | 1 |   PACKAGE QTY |PRICE EACH | PRICE PACKAGE |
-| 3 way switch | [link]()     | user input | 1 |   PACKAGE QTY |PRICE EACH | PRICE PACKAGE |
-| TOTAL PRICE |  |  |  |  | 200 |
+| LED display | [link](https://www.digikey.com.au/en/products/detail/luckylight/KWM-20881AVA/14009060)    | Picture Display | 100|  100 | 1.2 | 120 |
+| STM32F103x8 | [link](https://www.temu.com/au/-f103c8-arm--ch32f103c8-system-development-board-module-for--g-605811375965650.html?_oak_mp_inf=ENKL9p6334kBGiA2YjAzZGYxZjcxZDU0NDUwYTc1NzNmZWJiM2M1MzRjMyDT%2FZnA7jM%3D&top_gallery_url=https%3A%2F%2Fimg.kwcdn.com%2Fproduct%2Ffancy%2Ffd220ded-5b59-4012-b1e9-bd9bee3e90d8.jpg&spec_gallery_id=32459483419&refer_page_sn=10009&freesia_scene=2&_oak_freesia_scene=2&_oak_rec_ext_1=MTA1Mw&_oak_gallery_order=1499744445%2C373524183%2C114294326%2C2080611673%2C1413852090&search_key=STM32&refer_page_el_sn=200049&_x_sessn_id=s0u1qxklql&refer_page_name=search_result&refer_page_id=10009_1782009201692_bazxidpeid)  | Logic | 1 |   1 |10.53| 10.53 |
+| 3 way switch | [link](https://www.digikey.com.au/en/products/detail/gct/SWS040-015V23SSA/29426307)     | user input | 1 |   1 |.82 | .82|
+| TOTAL PRICE |  |  |  |  | 131.35 |
+
+
+the LEDs are actually quite expensive. it might be cheaper to design my own LED display from scratch. I'll cover that in a different repo.
+
