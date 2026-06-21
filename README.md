@@ -14,3 +14,10 @@ the display will show an uploaded black and white picture which can be changed t
 
 the LED display will reverse the colour so black becomes white and white becomes black. the display will have a black background and white LEDs.
 
+BOM below:
+
+| ITEM | LINK | Description |
+|-----|----------|-------------|
+| LED display | [link]()    | Picture Display |
+| STM32F103x8 | [link](https://www.digikey.com.au/en/products/detail/stmicroelectronics/STM32F103C8T6TR/2122442)  | Logic |
+| 3 way switch | [link]()     | user input |
